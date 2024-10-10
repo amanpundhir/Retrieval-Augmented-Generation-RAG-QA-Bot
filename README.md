@@ -30,8 +30,6 @@ You can test the deployed version of the app [here](https://pineconegenai-mpplvz
 
 ## Setup Instructions
 
- ## Docker Deployment
-- This project is fully containerized. You can use the following Dockerfile to build and run the application in a Docker container
 
 ## Running the Application Locally
 - Clone the repository:
@@ -108,6 +106,8 @@ After creating your Pinecone index, you need to update the `app.py` file to refl
    index_name = "multilingual-e5-large"  # Replace with your actual index name
    index = pc.Index("multilingual-e5-large")  # Replace with your actual index name
 
+## Docker Deployment
+- This project is fully containerized. You can use the Dockerfile to build and run the application in a Docker container
 
 ## Run the Docker container:
 
@@ -168,4 +168,4 @@ http://localhost:8501
 
 
 ### Developed by Amankumar Pundhir 
-### Contact : amanpundhir2003@gmail.com
+### Contact :  [Gmail](amanpundhir2003@gmail.com)
