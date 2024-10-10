@@ -168,4 +168,4 @@ http://localhost:8501
 
 
 ### Developed by Amankumar Pundhir 
-### Contact :  [Gmail](amanpundhir2003@gmail.com)
+### Contact :  [Gmail](mailto:amanpundhir2003@gmail.com)
