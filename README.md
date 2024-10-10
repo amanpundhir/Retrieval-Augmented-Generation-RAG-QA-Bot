@@ -38,8 +38,10 @@ You can test the deployed version of the app [here](https://pineconegenai-mpplvz
 
 ```bash
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/amanpundhir/genai_assessment.git
+```
+```bash
+cd genai_assessment
 ```
 ## Requirements
 
