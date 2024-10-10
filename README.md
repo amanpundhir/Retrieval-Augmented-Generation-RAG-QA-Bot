@@ -168,4 +168,5 @@ http://localhost:8501
 
 
 ### Developed by Amankumar Pundhir 
-### Contact :  [Gmail](mailto:amanpundhir2003@gmail.com)
+### Contact :[Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=amanpundhir2003@gmail.com)
+
