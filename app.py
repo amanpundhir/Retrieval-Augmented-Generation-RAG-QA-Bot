@@ -5,11 +5,11 @@ import google.generativeai as genai
 from sentence_transformers import SentenceTransformer
 
 # Set the environment variable
-genai.configure(api_key="AIzaSyCKMpA51iLjyHDST_d0IQfeolnvxcAHDJk")
+genai.configure(api_key="your_google_api_key")
 
 
-pc = Pinecone(api_key="1957212d-4aca-473e-8196-4cad8b690653")
-index_name = "multilingual-e5-large"
+pc = Pinecone(api_key="your_pinecone_api_key")
+index_name = "multilingual-e5-large"   
 
 
 index = pc.Index('multilingual-e5-large')
