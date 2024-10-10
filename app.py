@@ -8,11 +8,11 @@ from sentence_transformers import SentenceTransformer
 genai.configure(api_key="your_google_api_key")
 
 
-pc = Pinecone(api_key="your_pinecone_api_key")
-index_name = "multilingual-e5-large"   
+pc = Pinecone(api_key="your_pinecone_api_key")  
+index_name = "multilingual-e5-large"     # Replace with your actual index name
 
 
-index = pc.Index('multilingual-e5-large')
+index = pc.Index('multilingual-e5-large')  # Replace with your actual index name
 
 # Load the sentence transformer model for embedding
 embedder = SentenceTransformer('all-mpnet-base-v2')
