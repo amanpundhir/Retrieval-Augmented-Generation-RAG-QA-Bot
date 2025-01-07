@@ -14,7 +14,7 @@ The project has two main components:
    - The frontend is built using **Streamlit**, allowing users to upload PDF files, ask questions, and view the bot's responses in real time.
    - The bot retrieves the most relevant document segments from the vector database and generates a response.
    
-You can test the deployed version of the app [here](https://pineconegenai-mpplvzkpcx2xmsxgjmnlzn.streamlit.app/).
+You can test the deployed version of the app [here](https://retrieval-augmented-generation-rag-app-bot-jamvhl5p9kkp4eexk9b.streamlit.app/).
 
 ---
 
